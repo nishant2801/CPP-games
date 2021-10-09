@@ -89,7 +89,7 @@ int main(){
         }
     }
     if(solve(grid)){
-        cout<<"your fully solved SUDOKU problem is given below\n"
+        cout<<"your fully solved SUDOKU problem is given below\n";
         sudoku_grid(grid);
     }
     else{
